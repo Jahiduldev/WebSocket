@@ -55,7 +55,6 @@ if (defined('ENVIRONMENT'))
  *
  */
 	$system_path = 'CI';
-
 /*
  *---------------------------------------------------------------
  * APPLICATION FOLDER NAME
