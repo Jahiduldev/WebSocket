@@ -69,7 +69,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = '2AIT';
+    $application_folder = '2AIT';
 /*
  * --------------------------------------------------------------------
  * DEFAULT CONTROLLER
