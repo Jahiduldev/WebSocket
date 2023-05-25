@@ -70,7 +70,6 @@ if (defined('ENVIRONMENT'))
  *
  */
 	$application_folder = '2AIT';
-
 /*
  * --------------------------------------------------------------------
  * DEFAULT CONTROLLER
