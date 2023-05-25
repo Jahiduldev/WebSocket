@@ -40,7 +40,7 @@ if (defined('ENVIRONMENT'))
 		break;
 
 		default:
-			exit('The application environment is not set correctly.');
+		    exit('The application environment is not set correctly.');
 	}
 }
 
